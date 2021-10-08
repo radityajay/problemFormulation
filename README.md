@@ -28,4 +28,4 @@ A. Size untuk state space awal adalah 81
 
 B. 9x9 kotak dibagi menjadi sub kotak 3x3 maka menjadi 9 bagian.
 
-C. Goal state ini memerlukan 5 sub kotak untuk mencapai goal state karena merubah dari start state warnanya biru semua menjadi 5 sub kotak berubah menjadi merah.
+C. Solusi pertama Goal state ini memerlukan 5 sub kotak untuk mencapai goal state karena merubah dari start state warnanya biru semua menjadi 5 sub kotak berubah menjadi merah. Untuk solusi kedua memerlukan 3 sub kotak untuk mencapai goal state karena merubah dari start state warnanya biru semua menjadi 3 sub kotak berubah menjadi merah.  
